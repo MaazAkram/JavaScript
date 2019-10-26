@@ -1,1 +1,3 @@
-alert("Helo")
+var name = "daniyal"
+
+alert(name);
